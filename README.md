@@ -1,4 +1,4 @@
-# AURORA NAV / GMIN
+G.a.ne
 
 **Global Mobility Intelligence Network** -- A production-grade navigation system built in Rust with 210+ modular crates covering GNSS positioning, sensor fusion, routing, traffic, V2X communication, indoor positioning, AR navigation, and more.
 
